@@ -1,0 +1,12 @@
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\bin\Debug\WindowsFormsVM.exe.config
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\bin\Debug\WindowsFormsVM.exe
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\bin\Debug\WindowsFormsVM.pdb
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\obj\Debug\WindowsFormsVM.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\obj\Debug\WindowsFormsVM.Form1.resources
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\obj\Debug\WindowsFormsVM.Properties.Resources.resources
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\obj\Debug\WindowsFormsVM.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\obj\Debug\WindowsFormsVM.exe
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\obj\Debug\WindowsFormsVM.pdb
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\bin\Debug\Work.exe.config
+C:\Users\seeduc\Desktop\WindowsFormsVM\WindowsFormsVM\bin\Debug\WorkExponential.exe.config
+C:\Users\seeduc\Desktop\Cadu, Nicolas e Leonardo_2003\WindowsFormsVM\WindowsFormsVM\bin\Debug\WorkExponential.exe.config
